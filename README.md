@@ -1,4 +1,4 @@
-# homework3
+# css_practice2
 
 Code repository for Homework 3
 
